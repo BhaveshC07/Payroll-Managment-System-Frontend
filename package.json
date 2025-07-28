@@ -19,4 +19,9 @@
     "react-router-dom": "^7.6.3",
     "react-to-pdf": "^2.0.1"
   }
+  ,"scripts": {
+  "build": "react-scripts build",
+  "start": "react-scripts start"
+}
+
 }
